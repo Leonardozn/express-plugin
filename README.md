@@ -1,1 +1,1 @@
-@coyote/express-plugin
+@coyote-cli/express-plugin

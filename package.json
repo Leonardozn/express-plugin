@@ -1,0 +1,22 @@
+{
+  "name": "express-plugin",
+  "version": "0.1.0",
+  "description": "",
+  "bin": {
+    "coyote-express-dependence": "index.js"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "Waveystems S.A.S.",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leonardozn/express-plugin"
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "name": "express-plugin",
+  "name": "@coyote/express-plugin",
   "version": "0.1.0",
   "description": "",
   "bin": {

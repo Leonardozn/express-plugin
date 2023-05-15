@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const { cwd } = require('node:process')
 const fs = require('fs')
 const indexTmpl = require('./controllers/indexTemplate')
